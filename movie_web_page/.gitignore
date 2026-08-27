@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+node_modules/
+.env
+build/
+dist/
+*.log
+
 # production
 /build
 
@@ -21,3 +27,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
